@@ -1,7 +1,10 @@
 # wunderlist-python
-Example code on how to talk to the Wunderlist API from Python
+# I plan on modifying this to run within my Ai Example code on how to talk to the Wunderlist API from Python
+# each line needs to be reviewed and a quick edit run.
+# log that it was edited
+# log the repo I have with and without readme. and push that number to wunderlist as your do to list
 
-All code is tested on [pythonanywhere.com](http://pythonanywhere.com/) with a default Flask deployment on a Hacker account.
+All code was tested on [pythonanywhere.com](http://pythonanywhere.com/) with a default Flask deployment on a Hacker account.
 
 Three working examples on how to talk to the [Wunderlist API](https://developer.wunderlist.com/):
 
